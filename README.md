@@ -58,7 +58,7 @@ To use this system, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/message-exchange-system.git
+   git clone https://github.com/Artificial-BI/MessageServer.git
    cd message-exchange-system
    ```
 
